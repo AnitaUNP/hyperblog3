@@ -15,6 +15,10 @@ Lo logré. YES
 
 Esta línea es para la rama master.
 
+<<<<<<< HEAD
 (Anita) Primer cambio de Anita UNP en el código
 
 (Anita) Nuevo cambio a archivo de historia hecho .
+=======
+Cambio de Anita desde GitHub
+>>>>>>> 631cb7dcf3a7049b244c1ba053145be751a5f582
